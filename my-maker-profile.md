@@ -1,9 +1,9 @@
 # My Maker Profile
 # 我的 Maker 档案
 
-**Name | 姓名**: _________________
+**Name | 姓名**: ___Jade______________
 
-**Date | 日期**: _________________
+**Date | 日期**: ___11/21______________
 
 ---
 
@@ -12,9 +12,9 @@
 ### Who am I? | 我是谁？
 
 **My name is | 我的名字是**: 
-
+Jade
 **My hobbies include | 我的爱好包括**: 
-
+Hiking, Skiing
 **One interesting thing about me | 关于我的一件有趣的事**: 
 
 ---
@@ -22,12 +22,12 @@
 ## 🎯 Why I'm Here | 为什么来这里
 
 ### Why did I join the Making More Makers course? | 为什么参加 Making More Makers 课程？
-
+Learning more about coding and intelligent hardware
 
 
 
 ### What do I hope to gain from this experience? | 我希望从这次经历中获得什么？
-
+Create a interesting installation
 
 
 
@@ -36,14 +36,14 @@
 ## 💡 My Project Idea | 我的项目想法
 
 ### Project Name (if you have one) | 项目名称（如果你有的话）
-
+Define Your DKU
 
 
 ### What do I want to make? | 我想做什么？
 
 *Describe your project idea in 3-5 sentences*  
 *用 3-5 句话描述你的项目想法*
-
+A large-scale interactive installation using 3D printing and intelligent hardware, designed to engage students in reimagining campus spaces through making.
 
 
 
@@ -165,9 +165,9 @@ To add a photo:
 - [ ] Sharing what I learn
 - [ ] Having fun and being creative!
 
-**Signature | 签名**: _________________
+**Signature | 签名**: ___Jade_____________
 
-**Date | 日期**: _________________
+**Date | 日期**: __11/21_______________
 
 ---
 

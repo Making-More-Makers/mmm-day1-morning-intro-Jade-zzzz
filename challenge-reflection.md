@@ -1,11 +1,11 @@
 # Spaghetti Marshmallow Challenge Reflection
 # Spaghetti Marshmallow Challenge 反思
 
-**Name | 姓名**: _________________
+**Name | 姓名**: __Jade_______________
 
 **Team Name | 队名**: _________________
 
-**Date | 日期**: _________________
+**Date | 日期**: ___11/21______________
 
 ---
 
